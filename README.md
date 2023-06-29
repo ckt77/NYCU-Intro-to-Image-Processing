@@ -1,4 +1,2 @@
-# NYCU-Intro-to-Image-Processing
-NYCU 2023 Spring Introduction to Image Processing / 陳冠文教授  
-  
+# NYCU-Intro-to-Image-Processing  
 I skipped HW3 because it's a handwriting sheet.
